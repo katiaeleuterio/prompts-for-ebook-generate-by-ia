@@ -8,6 +8,7 @@ seguem abaixo.
 - [ChatGPT](https://chat.openai.com/) 
 - [NightCafé](https://creator.nightcafe.studio/explore)
 - [LibreOffice Impress](https://pt-br.libreoffice.org/baixe-ja/libreoffice-novo/)
+- [Shocode](https://showcode.app/)
 
 ## 🧠 Prompts
 
@@ -39,6 +40,7 @@ NightCafé：
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize o Showcode para dar um ar mais profissional aos códigos que serão apresentados no Ebook.
 
 
 by [Katia Eleutério]
