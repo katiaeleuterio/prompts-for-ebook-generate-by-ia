@@ -8,7 +8,7 @@ seguem abaixo.
 - [ChatGPT](https://chat.openai.com/) 
 - [NightCafé](https://creator.nightcafe.studio/explore)
 - [LibreOffice Impress](https://pt-br.libreoffice.org/baixe-ja/libreoffice-novo/)
-- [Shocode](https://showcode.app/)
+- [Showcode](https://showcode.app/)
 
 ## 🧠 Prompts
 
